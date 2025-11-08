@@ -1,7 +1,7 @@
-I created this application to simplify my father's work in processing store inventory data. The application has several screens with different features, namely:
+This project is a desktop-based store management application created to streamline inventory and sales operations. It features multiple screens, including modules for:
 
-1. CRUD
-2. Sales Transactions
-3. View Transaction History
+1. CRUD functionality to manage inventory data
+2. Processing sales transactions
+3. Displaying transaction history
 
-I created this application using Java Swing and MySQL. It took me two weeks to complete.
+The application was developed using Java Swing and MySQL, and completed in two weeks with a focus on usability and efficient data management.
